@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm PALEPALLI SAI KIRAN REDDY</h1>
-<h3 align="center">👋 Hi there! I'm a B.Tech student in my 4th year, specializing in Data Science. My passion lies in data analytics, and I'm eager to leverage my skills to uncover insights and drive data-driven decision-making. 🔍 I have a solid foundation in Machine Learning, SQL, and data visualization. I've successfully completed projects in areas like Text Emotion Classification and Credit Card Fraud Detection, which allowed me to deepen my understanding of machine learning algorithms and their practical applications.</h3>
+<h3 align="center">👋 Hi there! I'm a B.Tech student in my 4th year, specializing in Data Science. My passion lies in data analytics, and I'm eager to leverage my skills to uncover insights and drive data-driven decision-making. 🔍 I have a solid foundation in Machine Learning, SQL, and data visualization.
+  I've successfully completed projects in areas like Text Emotion Classification and Credit Card Fraud Detection, which allowed me to deepen my understanding of machine learning algorithms and their practical applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikiran2946&label=Profile%20views&color=0e75b6&style=flat" alt="saikiran2946" /> </p>
 
